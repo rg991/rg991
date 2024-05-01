@@ -1,20 +1,12 @@
 <br clear="both">
 
-<div align="center">
-  <img height="150" src="https://github.com/rg991/rg991/blob/401d054a739c700bf096f065b3991a686197347e/profile.png"  />
-</div>
-
-###
-
-<br clear="both">
-
 <h1 align="center">Hey there 👋</h1>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -22,7 +14,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
