@@ -1,12 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hey there 👋</h1>
-
-###
-
-<br clear="both">
-
-<h2 align="left">👩‍💻  About Me</h2>
+<h1 align="left">👩‍💻  About Me</h1>
 
 ###
 
@@ -14,7 +8,7 @@
 
 ###
 
-<h2 align="left">🛠 Language and tools</h2>
+<h1 align="left">🛠 Language and tools</h1>
 
 ###
 
