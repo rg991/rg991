@@ -1,14 +1,14 @@
 <br clear="both">
 
-<h1 align="left">👩‍💻  About Me</h1>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<p align="left">I'm Rishabh from India<br><br>- 📚 I'm currently learning Web Development<br>- ⚡ In my free time I try new things</p>
+<p align="left">I'm <b>Rishabh</b> from India<br><br>- 📚 I'm currently learning Web Development<br>- ⚡ In my free time I try new things</p>
 
 ###
 
-<h1 align="left">🛠 Language and tools</h1>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
